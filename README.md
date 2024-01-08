@@ -1,2 +1,4 @@
-Work in progress. 
-Currently holding old projects into a signle repository (this one)
+Project uses the dotenv library in python, this .env file contains my API credentials 
+from Spotify. 
+This application searches for an artist in Spotify, retrieves the artist information, and 
+parses the Json file then displays the artist top tracks.
